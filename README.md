@@ -1,6 +1,6 @@
 # Four-legged Robot coding tutorial
 
-This is a commercial project which required for creating a coding tutorial to teach students to use Arduino to control a robot dog called bittle (https://www.petoi.com/pages/bittle-open-source-bionic-robot-dog). 
+This is a commercial project which required for creating a coding tutorial to teach students to use Arduino to control a robot dog called [bittle](https://www.petoi.com/pages/bittle-open-source-bionic-robot-dog). 
 
 I was provided with several of these robots and required to design a several tasks for learners to accomplish. Code for all the tasks can be found in the repository. 
 
