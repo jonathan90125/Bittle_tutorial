@@ -10,5 +10,5 @@ The robot has an embedded IMU chip in it, so I designed a self balancing task fo
 
 In addition, peripheral sensors like ultrasonic ranging unit and camera are used to enable interaction with the environment. With the help of these sensors, the robot can avoid obstacles or following behind the user.
 
-<img src="D:./1.jpg" alt="1" width="600" />
+<img src="1.jpg" alt="1" width="600" />
 
